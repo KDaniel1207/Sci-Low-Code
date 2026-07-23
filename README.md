@@ -1,5 +1,5 @@
 # 1. Sci-Low-Code
-Library for Scientific Computing and Low Code Develpment.
+Library for Scientific Computing and Low Code Development.
 This project is a Spin-Off of the University of Applied Sciences Aalen.
 The former project UABM https://www.hs-aalen.de/UABM, or on github https://github.com/U-A-B-M/UABM, is set dormant, the present project is its continuation.
 
@@ -14,9 +14,9 @@ The present Excel Add-In facilitates the following use cases:
 # 2. Language support
 Currently the 4 languages English, Chinese/Mandarin (中文，普通话), German, Vietnamese (Tiếng Việt) are supported. It is possible to set a 1st and 2nd language from the 4 languages mentioned before:
 1. The 1st language is displayed in the first place, surprise 😀. If no 1st language is set then the display language defaults to English.
-2. If a 2nd language is set (facultative), the the UI is displayed in this language as well, right after the 1st language.
+2. If a 2nd language is set (facultative), the UI is displayed in this language as well, right after the 1st language.
 
-Okay .., this makes the UI a tad overcrowded 😀, but it's fun 😎, seee the examples below.
+Okay .., this makes the UI a tad overcrowded 😀, but it's fun 😎, see the examples below.
 
 For example, English combined with Chinese/Mandarin:
 
@@ -39,8 +39,8 @@ Or Vietnamese with German:
 The graphic visualizes 2 things:
 
 A. The Office Technology Stack, exemplified on Excel. We have the following layers:
-1. Top layer: Excel, the well-known spreadsheet calculation programm.
-2. Below Excel-Layer the VBA = "Visual Basic for Application" layer. Here, one may automatize Excel by programatically accessing Excel components (cells, sheets, etc)
+1. Top layer: Excel, the well-known spreadsheet calculation program.
+2. Below Excel-Layer the VBA = "Visual Basic for Applications" layer. Here, one may automatize Excel by programmatically accessing Excel components (cells, sheets, etc)
 3. DLL-Layer: DLL (Dynamic Link Library) are most obscure and
 
        --> represent libraries programmed usually in C, and
@@ -52,7 +52,7 @@ A. The Office Technology Stack, exemplified on Excel. We have the following laye
 
    As a matter of fact, the numerical procedures "Newton's Method" (https://en.wikipedia.org/wiki/Newton%27s_method) and "Gradient Descent" (https://en.wikipedia.org/wiki/Gradient_descent) are already integrated in Excel ... .
    
-B. The SciLowCode Archtecture: SciLowCode simply chooses the "right" components from the above technology stack and makes them available as Excel menu. A schematic content of SciLowCode is is overlaying the Office Technology Stack.
+B. The SciLowCode Architecture: SciLowCode simply chooses the "right" components from the above technology stack and makes them available as Excel menu. A schematic content of SciLowCode is overlaying the Office Technology Stack.
 
 # 4. Use case Numerical Curve Sketching
 <img width="1062" height="431" alt="image" src="https://github.com/user-attachments/assets/76304dbf-8166-4994-994b-d810ad56cb85" />
