@@ -57,5 +57,5 @@ B. The SciLowCode Architecture: SciLowCode simply chooses the "right" components
 # 4. Use case Numerical Curve Sketching
 <img width="1062" height="431" alt="image" src="https://github.com/user-attachments/assets/76304dbf-8166-4994-994b-d810ad56cb85" />
 
-The expected outcome of a numerical curve sketch will be alog the lines of the next acreenshot - depending on the function analyzed different shapes and numbers will occur:
+The expected outcome of a numerical curve sketch will be along the lines of the next screenshot - depending on the function analyzed different shapes and numbers will occur:
 <img width="1214" height="715" alt="image" src="https://github.com/user-attachments/assets/b76c724d-d7c8-4f23-8d9e-d19dac3cec74" />
